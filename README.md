@@ -1,7 +1,7 @@
 🔥 Build robust and efficient REST APIs using Python and Django! Here's what this project covers:
 
 <p align="center">
-  <img src="companyapi/Project Preview/API1.JPG" alt="MasterHead">
+  <img src="companyapi/Project Preview/Company List.JPG" alt="MasterHead">
 </p>
 📌 Identifying Resources & Relationships
 🌐 Designing API Endpoints
