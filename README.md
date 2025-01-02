@@ -10,9 +10,9 @@
 🎯 Creating Models & Serializers: Company & Employee relations
 
 <p align="center">
-  <img src="companyapi/Project Preview/api format.JPG
-" >
+  <img src="companyapi/Project Preview/api format.JPG" >
 </p>
+<br>
 <p align="center">
   <img src="companyapi/Project Preview/employee.JPG" >
 </p>
