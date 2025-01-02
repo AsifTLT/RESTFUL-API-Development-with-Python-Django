@@ -3,7 +3,7 @@
 📌 Identifying Resources & Relationships
 🌐 Designing API Endpoints 
 <p align="center">
-  <img src="companyapi/Project Preview/Company List.JPG" alt="MasterHead">
+  <img src="companyapi/Project Preview/Company List.JPG" >
 </p>
 
 ⚙️ Step-by-step Setup: From installing Python & Django to a fully functional API
@@ -11,19 +11,19 @@
 
 <p align="center">
   <img src="companyapi/Project Preview/api format.JPG
-" alt="MasterHead">
+" >
 </p>
 <p align="center">
-  <img src="companyapi/Project Preview/employee.JPG" alt="MasterHead">
+  <img src="companyapi/Project Preview/employee.JPG" >
 </p>
 
 
 🛠️ Building APIs: Using function-based views and ViewSets
 <p align="center">
-  <img src="companyapi/Project Preview/admin company site.JPG" alt="MasterHead">
+  <img src="companyapi/Project Preview/admin company site.JPG" >
 </p>
 <p align="center">
-  <img src="companyapi/Project Preview/admin employee site.JPG" alt="MasterHead">
+  <img src="companyapi/Project Preview/admin employee site.JPG" >
 </p>
 
 🚀 Django REST Framework: Installation, app setup, and DefaultRouter
